@@ -12,6 +12,7 @@ I've been looking at expanding my coding repotoire and get more cosistent with p
 
   
 My project todo list (inn no particular order):
+- [x] file-organiser
 - [ ] Pomodoro timer
 - [ ] GPT-4 Chat Wrapper
 - [ ] Obsidian.md Clone
