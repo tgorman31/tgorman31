@@ -22,6 +22,7 @@ My project todo list (inn no particular order):
 - [ ] Project Management Tool
 - [ ] Personal Website
 - [ ] Dwarf Fortress World Gen Clone
+- [ ] AI Assisted Document Creator
 <!--
 **tgorman31/tgorman31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
