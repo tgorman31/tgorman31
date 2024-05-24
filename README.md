@@ -9,6 +9,7 @@ I've been looking at expanding my coding repotoire and get more cosistent with p
 - 🔭 I’m currently working on a Go Pomodoro timer 🍅
 - 🌱 I’m currently learning Go
 - ☑️ I've just completed a [file-organiser](https://github.com/tgorman31/file-organiser) in Go
+- ☑️ I've just completed the [Microsoft Power-Up Challenge](https://github.com/tgorman31/AnimalShelter)
 
   
 My project todo list (inn no particular order):
