@@ -6,10 +6,8 @@ I am my departments excel & macro wizard (there is always one)🧙‍♂️
 
 I've been looking at expanding my coding repotoire and get more cosistent with programming. 
 
-- 🔭 I’m currently working on a Go Pomodoro timer 🍅
-- 🔭 I’m currently working on a Go Meal Planner
 - 🔭 I’m currently working on a VBA Construction Project Cost Management Tool
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Go & C#
 - ☑️ I've just completed a [file-organiser](https://github.com/tgorman31/file-organiser) in Go
 - ☑️ I've just completed the [Microsoft Power-Up Challenge](https://github.com/tgorman31/AnimalShelter)
 
