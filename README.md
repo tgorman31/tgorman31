@@ -26,6 +26,12 @@ My project todo list (inn no particular order):
 - [ ] Dwarf Fortress World Gen Clone
 - [ ] AI Assisted Document Creator
 <!--
+
+Other Ideas:
+ - [ ] Running safety app matching runners with training buddies
+ - [ ] Live streaming app for DJ's to stream music direct to party's
+
+
 **tgorman31/tgorman31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
