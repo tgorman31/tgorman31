@@ -12,7 +12,7 @@ I've been looking at expanding my coding repotoire and get more cosistent with p
 - ☑️ I've just completed the [Microsoft Power-Up Challenge](https://github.com/tgorman31/AnimalShelter)
 
   
-My project todo list (inn no particular order):
+My project todo list (in no particular order):
 - [x] file-organiser
 - [ ] Pomodoro timer
 - [ ] F45 Meal Planner
@@ -30,6 +30,7 @@ My project todo list (inn no particular order):
 Other Ideas:
  - [ ] Running safety app matching runners with training buddies
  - [ ] Live streaming app for DJ's to stream music direct to party's
+ - [ ] Asset and Project Management SaaS with BIM functionality
 
 
 **tgorman31/tgorman31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
