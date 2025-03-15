@@ -1,18 +1,22 @@
 ### Hi there 👋
 
-My name is Thomas, I am a mostly hobbist developer but do a lot in VBA in Excel in my day to day work. 
+My name is Thomas, I work in VBA & PowerApps by day and C# & Go by night. 
 
-I am my departments excel & macro wizard (there is always one)🧙‍♂️
+🧙‍♂️ I am your local excel & macro wizard and work at improving Asset & Project Management in the NZ Public Sector via the tools I build.
 
-I've been looking at expanding my coding repotoire and get more cosistent with programming. 
+I've been working on expanding my coding repotoire and get more consistent with programming. 
 
-- 🔭 I’m currently working on a VBA Construction Project Cost Management Tool
-- 🌱 I’m currently learning Go & C#
+- 🔭 I’m currently working replacing Excel VBA Construction Project Management tools with PowerApps & Dataverse
+- 🌱 I’m currently learning C# & Go
 - ☑️ I've just completed a [file-organiser](https://github.com/tgorman31/file-organiser) in Go
+- ☑️ I've completed a VBA Construction Project Cost Management Tool including S-Curve Cost Forecasting
+- ☑️ I've got certified as a [Microsoft Power Platform Functional Consultant](https://learn.microsoft.com/api/credentials/share/en-us/ThomasGorman-1951/BDDB9509C90D6217?sharingId)
 - ☑️ I've just completed the [Microsoft Power-Up Challenge](https://github.com/tgorman31/AnimalShelter)
 
-  
-My project todo list (in no particular order):
+My next **BIG** project
+ - [ ] Asset and Project Management SaaS with BIM functionality (Democratising BIM)
+
+My personal project todo list (in no particular order):
 - [x] file-organiser
 - [ ] Pomodoro timer
 - [ ] F45 Meal Planner
