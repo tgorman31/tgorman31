@@ -28,11 +28,11 @@ My personal project todo list (in no particular order):
 - [ ] Project Management Tool
 - [ ] Personal Website
 - [ ] Dwarf Fortress World Gen Clone
-- [ ] AI Assisted Document Creator
 <!--
 
 Other Ideas:
  - [ ] Running safety app matching runners with training buddies
+ - [ ] AI Assisted Document Creator
  - [ ] Live streaming app for DJ's to stream music direct to party's
  - [ ] Asset and Project Management SaaS with BIM functionality
 
