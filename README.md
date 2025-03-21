@@ -14,7 +14,7 @@ I've been working on expanding my coding repotoire and get more consistent with 
 - ☑️ I've just completed the [Microsoft Power-Up Challenge](https://github.com/tgorman31/AnimalShelter)
 
 My next **BIG** project
- - [ ] Asset and Project Management SaaS with BIM functionality (Democratising BIM)
+- [ ] Government Construction Project Management Tool
 
 My personal project todo list (in no particular order):
 - [x] file-organiser
@@ -25,7 +25,7 @@ My personal project todo list (in no particular order):
 - [ ] Obsidian.md Clone
 - [ ] Project Cost Management Tool (clone of excel work tool)
 - [ ] Beaver Wizard (AI life assistant)
-- [ ] Project Management Tool
+- [ ] Asset and Project Management SaaS with BIM functionality (Democratising BIM)
 - [ ] Personal Website
 - [ ] Dwarf Fortress World Gen Clone
 <!--
