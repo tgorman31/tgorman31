@@ -8,6 +8,7 @@ I've been working on expanding my coding repotoire and get more consistent with 
 
 - 🔭 I’m currently working replacing Excel VBA Construction Project Management tools with PowerApps & Dataverse
 - 🌱 I’m currently learning C# & Go
+- 🕹️ I'm playing around (😜) with lua and Löve
 - ☑️ I've just completed a [file-organiser](https://github.com/tgorman31/file-organiser) in Go
 - ☑️ I've completed a VBA Construction Project Cost Management Tool including S-Curve Cost Forecasting
 - ☑️ I've got certified as a [Microsoft Power Platform Functional Consultant](https://learn.microsoft.com/api/credentials/share/en-us/ThomasGorman-1951/BDDB9509C90D6217?sharingId)
